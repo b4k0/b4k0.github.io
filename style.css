@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;700&display=swap');
+*
+
+{
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+ font-family: 'Source Sans Pro', sans-serif;
+
+}
+body
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    flex-direction: column;
+    background: #0e0e0e;
+}
+.text
+{
+    position: relative;
+    width: 100%;
+    text-align: center;
+    filter: url(#fire);
+}
+.text h2
+{
+    position: relative;
+    color: #0793d4;
+    font-weight: 600;
+    font-size: 10em;
+    -webkit-box-reflect: below -120px linear-gradient
+    (trasparent, #0008);
+    text-shadow: 0 0 10px #05b8d8,
+    0 0 40px#05b8d8,
+    0 0 80px #05b8d8,
+    0 0 160px #05b8d8,
+    0 0 240px #05b8d8;               
+}
+svg
+{
+    width: 0;
+    height: 0;
+}
+a
+{
+    position: relative;
+    display: inline;
+    padding: 25px 30px;
+    margin: 40px 0;
+    color: #0793d4;
+    font-size: 15px;
+    text-decoration: none;
+    text-transform: uppercase;
+    transition: 0.5s;
+    letter-spacing: 5px;
+
+}
+a:hover
+{
+background: #0793d4; 
+color: #050801;
+box-shadow: 0 0 5px#0793d4,
+0 0 25px #0793d4,
+0 0 50px #0793d4,
+0 0 200px#0793d4;
+
+}
+a:span
+{
+  position: absolute;
+  display: block;
+}
