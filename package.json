@@ -1,0 +1,25 @@
+{
+  "name": "myPortfolioWebsite",
+  "version": "1.0.0",
+  "description": "Portfolio Website with Animations and modern Design in Html5, Css3 and JS.",
+  "main": "index.js",
+  "dependencies": {
+    "browserify": "^17.0.0",
+    "emailjs-com": "^3.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mpak1996/myPortfolioWebsite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mpak1996/myPortfolioWebsite/issues"
+  },
+  "homepage": "https://github.com/Mpak1996/myPortfolioWebsite#readme"
+}
