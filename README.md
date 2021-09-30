@@ -27,4 +27,5 @@ Portfolio Website with Animations and modern Design with HTML5, CSS3, JS, jQuery
 * Contact
 ![contact](https://user-images.githubusercontent.com/51766689/134778565-7434b625-4977-4b81-9d0d-d8bc343fe6f1.PNG)
 * Footer
-![footer](https://user-images.githubusercontent.com/51766689/134778564-de1da6d9-e4cd-4d04-b6e1-1afca32b1349.PNG)
+![footer](https://user-images.githubusercontent.com/51766689/135311321-b8d528bb-4af5-45bd-97e3-25215302c1b3.PNG)
+
