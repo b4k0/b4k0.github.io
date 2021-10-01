@@ -8,12 +8,12 @@ Portfolio Website with Animations and modern Design with HTML5, CSS3, JS, jQuery
 ## Menu 
 
 * Home
-![PortfolioWebsite](https://user-images.githubusercontent.com/51766689/134778071-7cce40c4-2ccd-42d9-9a33-6bc9d451ae18.PNG)
+![PortfolioWebsite](https://user-images.githubusercontent.com/51766689/135588323-0be5fccc-91e2-4e4f-9324-3d1c05a34d8a.PNG)
 * About
 ![aboutme](https://user-images.githubusercontent.com/51766689/134778577-ad21cebd-15ee-4f38-8538-82eb0fa81f41.PNG)
 * Resume 
   *  Education
-  ![education](https://user-images.githubusercontent.com/51766689/134778573-e9805249-13f5-496f-bfdc-9b52e538668b.PNG)
+  ![education](https://user-images.githubusercontent.com/51766689/135588314-802d608c-010f-4f39-9954-e6abfcea23b8.PNG)
   *  Experience
   ![experience](https://user-images.githubusercontent.com/51766689/134778572-afa6bf29-d9ea-4726-b999-5cfa39236bca.PNG)
   *  Skills
