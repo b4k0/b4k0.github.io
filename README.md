@@ -1,6 +1,6 @@
 # My Portfolio Website
 
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/51766689/134809158-9a920c8a-64ba-48a3-854e-dcf20ae7b61c.gif)
+![PortfolioWebsite](https://user-images.githubusercontent.com/51766689/135588323-0be5fccc-91e2-4e4f-9324-3d1c05a34d8a.PNG)
 
 
 Portfolio Website with Animations and modern Design with HTML5, CSS3, JS, jQuery and EmailJS.
