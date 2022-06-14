@@ -1,6 +1,6 @@
 # My Portfolio Website
 
-![PortfolioWebsite](https://user-images.githubusercontent.com/51766689/135588323-0be5fccc-91e2-4e4f-9324-3d1c05a34d8a.PNG)
+![PortfolioWebsite](https://user-images.githubusercontent.com/51766689/173683800-ec0d1aa3-9991-4b8c-a467-5d647fa68342.PNG)
 
 
 Portfolio Website with Animations and modern Design with HTML5, CSS3, JS, jQuery and EmailJS.
@@ -8,24 +8,26 @@ Portfolio Website with Animations and modern Design with HTML5, CSS3, JS, jQuery
 ## Menu 
 
 * Home
-![PortfolioWebsite](https://user-images.githubusercontent.com/51766689/135588323-0be5fccc-91e2-4e4f-9324-3d1c05a34d8a.PNG)
+![PortfolioWebsite](https://user-images.githubusercontent.com/51766689/173683800-ec0d1aa3-9991-4b8c-a467-5d647fa68342.PNG)
 * About
-![aboutme](https://user-images.githubusercontent.com/51766689/135588636-cf010867-14fa-4e5c-8cd0-74e64bc9b638.PNG)
+![aboutme](https://user-images.githubusercontent.com/51766689/173683808-02c565ce-214a-4ec5-b08c-d7cec1e1728c.PNG)
 * Resume 
   *  Education
-  ![education](https://user-images.githubusercontent.com/51766689/135588314-802d608c-010f-4f39-9954-e6abfcea23b8.PNG)
+![education](https://user-images.githubusercontent.com/51766689/173683795-493bc90f-25ca-42cc-b9b1-7f5700aeeb94.PNG)
   *  Experience
-  ![experience](https://user-images.githubusercontent.com/51766689/134778572-afa6bf29-d9ea-4726-b999-5cfa39236bca.PNG)
+![experience](https://user-images.githubusercontent.com/51766689/173683797-b2902c4c-a712-4bb3-98c2-658464bba406.PNG)
   *  Skills
-  ![skills](https://user-images.githubusercontent.com/51766689/134778571-8c236ff8-f6a3-48ba-90dc-79dd4dbd32af.PNG)
+![skills](https://user-images.githubusercontent.com/51766689/173683804-cbb3aca9-4bb7-4db0-a855-3999ac7b4fb1.PNG)
 * Certifications
-![cert](https://user-images.githubusercontent.com/51766689/134778568-c0e1f65d-684f-4264-b8ee-e6d3e3bf5ae7.PNG)
+![cert](https://user-images.githubusercontent.com/51766689/173683812-c93c83ef-9d04-4b8c-9c99-b2f75fb0e566.PNG)
+* Courses
+![courses](https://user-images.githubusercontent.com/51766689/173683791-e4562172-3f1c-48c9-8e2a-bd09530f09ca.PNG)
 * Services
-![serv](https://user-images.githubusercontent.com/51766689/134778567-753af40b-5023-4eeb-ab18-42ba7b86549e.PNG)
+![serv](https://user-images.githubusercontent.com/51766689/173683803-87d35274-f342-4a22-b89b-f59db388a69a.PNG)
 * Projects
-![projects](https://user-images.githubusercontent.com/51766689/134778566-ef15eec1-97c1-4f8c-a3c5-8f3fe4d3a3ef.PNG)
+![projects](https://user-images.githubusercontent.com/51766689/173683801-ccb81d3c-9153-4a57-ac9e-4b48e3d5c139.PNG)
 * Contact
-![contact](https://user-images.githubusercontent.com/51766689/134778565-7434b625-4977-4b81-9d0d-d8bc343fe6f1.PNG)
+![contact](https://user-images.githubusercontent.com/51766689/173683783-50c048c0-7746-47e2-b44c-ecde7aa9a7f6.PNG)
 * Footer
-![footer](https://user-images.githubusercontent.com/51766689/135311321-b8d528bb-4af5-45bd-97e3-25215302c1b3.PNG)
+![footer](https://user-images.githubusercontent.com/51766689/173684903-791b3e9d-152a-4dc7-8eae-adb34b067450.PNG)
 
