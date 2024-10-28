@@ -4,7 +4,7 @@
   "description": "Portfolio Website with Animations and modern Design in Html5, Css3 and JS.",
   "main": "index.js",
   "dependencies": {
-    "browserify": "^17.0.0",
+    "browserify": "^17.0.1",
     "emailjs-com": "^3.2.0"
   },
   "devDependencies": {},
